@@ -44,7 +44,7 @@ I am a passionate Fullstack Web Developer with a knack for creating innovative d
 ---
 
 ## 📚 Current Focus
-- Enhancing my **Angular**, **Next.js** and **Backend** development skills.
+- Enhancing my **Angular**, **Next.js** and **PostgreSQL** development skills.
 - Exploring serverless technologies for scalable backend solutions.
 
 ---
