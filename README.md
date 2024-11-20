@@ -2,7 +2,7 @@
 
 🚀 **Fullstack Web Developer | MERN/MEAN Stack Specialist**
 
-I am a passionate Fullstack Web Developer with a knack for creating innovative digital solutions and seamless user experiences. With expertise in the **MERN stack and Angular** and proficiency in **.NET Framework, PostgreSQL, Appwrite, and Prisma**, I aim to craft scalable and high-performance web applications.
+I am a passionate Fullstack Web Developer with a knack for creating innovative digital solutions and seamless user experiences. With expertise in the **MERN stack and Angular** and proficiency in **.NET Framework, PostgreSQL, Node,js, and Prisma**, I aim to craft scalable and high-performance web applications.
 
 ---
 
