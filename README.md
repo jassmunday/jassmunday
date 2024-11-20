@@ -39,6 +39,3 @@ Vite, Appwrite, Firebase, JWT, Zod, Git & GitHub
 - **Email**: [jassnangal15@gmail.com](mailto:jassnangal15@gmail.com)
 
 ---
-
-Feel free to explore my repositories and contribute if something catches your interest! 😄
-
