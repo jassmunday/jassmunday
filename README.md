@@ -9,37 +9,16 @@ I am a passionate Fullstack Web Developer with a knack for creating innovative d
 ## 🔧 Technologies & Tools I Work With
 
 ### **Frontend**
-- React
-- Angular
-- Next.js
-- Tailwind CSS
-- Redux
-- Zustand
-- JavaScript
-- TypeScript
-- .NET Core MVC
-- CSharp
+React, Angular, Next.js, Tailwind CSS, Redux, Zustand, JavaScript, TypeScript, .NET Core MVC, CSharp
 
 ### **Backend**
-- Node.js
-- Express.js
-- Cloudflare Workers
-- ASP.NET Core Webapi
+Node.js, Express.js, Cloudflare Workers, ASP.NET Core Webapi
 
 ### **Databases**
-- PostgreSQL
-- MS Sql Server
-- MySQL
-- MongoDB
-- Prisma
+PostgreSQL, MS SQL Server, MySQL, MongoDB, Prisma
 
 ### **Others**
-- Vite
-- Appwrite
-- Firebase
-- JWT
-- Zod
-- Git & GitHub
+Vite, Appwrite, Firebase, JWT, Zod, Git & GitHub
 
 ---
 
