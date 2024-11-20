@@ -1,4 +1,4 @@
-# Hi, I'm Jasmeet Singh 👋
+# Hi, I'm Jasmeet Singh
 
 🚀 **Fullstack Web Developer | MERN/MEAN Stack Specialist**
 
